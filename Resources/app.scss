@@ -1,0 +1,35 @@
+@import url(//fonts.googleapis.com/css?family=Roboto:400);
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	font-size: 100%;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: geometricPrecision;
+}
+
+body {
+	background: #fff;
+	position: relative;
+	font-size: 16px;
+	font-family: Segoe UI;
+}
+.hero {
+	.centered {
+		img {
+			position: absolute;
+			width: 300px;
+			height: 300px;
+		}
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-rendering: optimizeLegibility;
+	font-weight: normal;
+	font-weight: bold;
+}
