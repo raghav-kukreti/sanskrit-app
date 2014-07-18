@@ -2,7 +2,7 @@
 <ti:app xmlns:ti='http://ti.appcelerator.org'>
 <!-- These values are edited/maintained by TideSDK Developer -->
 <id>com.cbse.sanskrit</id>
-<name>Learn Sanskrit Easily and Effeciently</name>
+<name>CBSE App</name>
 <version>1.0</version>
 <publisher>Raghav Kukreti</publisher>
 <url>raghav-kukreti.github.io</url>
